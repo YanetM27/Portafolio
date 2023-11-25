@@ -1,0 +1,28 @@
+.caja{
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: 60px auto 100px;
+
+}
+
+.titulo{
+	grid-column: 3 / -4;
+
+}
+
+.habilidades{
+	grid-row: 2 / 2;
+
+}
+
+.descripcion{
+	grid-column: 2 / -1;
+
+}
+
+.caja2{
+	grid-column: 2 / -2;
+
+}
+

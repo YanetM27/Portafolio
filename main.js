@@ -1,0 +1,2 @@
+alert("¡Bienvenido reclutador!")
+

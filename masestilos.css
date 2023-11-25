@@ -1,0 +1,14 @@
+body {
+  height: 1000px;
+  background-image: url(imagenes/fondo.jpg);
+  background-size: cover;
+  background-size: 100rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+
+}
+table {
+  font-family:arial;
+  font-size: 30px
+}
